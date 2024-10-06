@@ -78,7 +78,7 @@
 
 > 一些解决方案, 懒得整理, 咱们可以直接上链接
 
-[一勺]()
+[一勺](https://www.yuque.com/yuqueyonghuk4ccbe/eisx2i/nn0bkyiqne5ok4ia?singleDoc# 《Note》)
 
 ## 2024 届学弟、学妹们的每周总结
 
