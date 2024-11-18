@@ -80,6 +80,10 @@
 
 [一勺](https://www.yuque.com/yuqueyonghuk4ccbe/eisx2i/nn0bkyiqne5ok4ia?singleDoc#)
 
+## 2024届纳新计划
+
+2024届计划前端招 2 人、后端 4 人、产品 2 人、UI 2 人，共计 10 人。
+
 ## 2024 届学弟、学妹们的每周总结
 
 [张一]()
