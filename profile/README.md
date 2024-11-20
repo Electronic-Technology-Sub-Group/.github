@@ -80,19 +80,9 @@
 
 [一勺](https://www.yuque.com/yuqueyonghuk4ccbe/eisx2i/nn0bkyiqne5ok4ia?singleDoc#)
 
-## 2024届纳新计划
-
-2024届计划前端招 2 人、后端 4 人、产品 2 人、UI 2 人，共计 10 人。
-
 ## 2024 届学弟、学妹们的每周总结
 
-[张一]()
-
-[张二]()
-
-[张三]()
-
-[张四]()
+2024届计划前端招 2 人、后端 4 人、产品 2 人、UI 2 人，共计 10 人。
 
 ## 我们小组的获奖荣誉
 
@@ -104,6 +94,7 @@
 - 完成多项大学生创新创业省级项目
 - 数媒大赛移动应用开发省二、省三
 - ACM 银牌
+- 高校计算机技能大赛省一、国三
 
 ## 前端的学习路线（大概 4 个月左右, 坚持就行了）
 
@@ -262,9 +253,15 @@ TypeScrript: 珠峰架构课程
 
 2、参与 YQ-Music（技术栈：Vue3、Vite、TypeScript、TailwindCSS、Less、Swiper、Vant-ui） 项目迭代
 
-3、参与 YQ-Admin（技术栈：Vue3、Vite、TypeScript、TailwindCSS、MockJs） 项目迭代
+3、参与 YQ-Admin（技术栈：Vue3、Vite、TypeScript、Element-Plus、TailwindCSS、MockJs、Koa、MySql、Sequlize、WebSocket） 项目迭代
 
-4、参与项目组 YQ-Design-UI 组件库迭代
+4、参与 YQ-Design-UI 组件库迭代 (Vue3、Vite、Monorepon管理、VitePress、Markdown.it、Vueuse) 项目迭代
+
+5、参与 YQ-Aigc-App 迭代
+
+6、参与 YQ-Message-Wall 迭代（Koa、mongonDB、Vue3、TypeScript、Nust、TailwindCSS）
+
+7、参与 YQ-Index 迭代
 
 5、刷题
 
@@ -312,8 +309,6 @@ https://github.com/Sunny-117/js-challenges
 ![](https://img-blog.csdnimg.cn/img_convert/fd3a92233407083de255027d0c2e60d9.png)
 
 ![](https://img-blog.csdnimg.cn/img_convert/8683d587b1eaf951973a2ea630526681.png)
-
-## 后端开发学习路线
 
 ## books
 
