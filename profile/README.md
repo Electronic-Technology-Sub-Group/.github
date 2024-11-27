@@ -259,9 +259,9 @@ TypeScrript: 珠峰架构课程
 
 5、参与 YQ-Aigc-App 迭代
 
-6、参与 YQ-Message-Wall 迭代（Koa、mongonDB、Vue3、TypeScript、Nust、TailwindCSS）
+6、参与 YQ-Message-Wall 迭代（Koa、mongonDB、Vue3、TypeScript、Nuxt、TailwindCSS）
 
-7、参与 YQ-Index 迭代
+7、参与 YQ-Index(电子科技小组官网) 迭代
 
 5、刷题
 
